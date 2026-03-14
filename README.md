@@ -1,1 +1,1 @@
-# Fundamentals_of_AI
+# Fundamentals_of_DeepLearning
